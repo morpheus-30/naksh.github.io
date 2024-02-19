@@ -2,9 +2,9 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Nakshatra Chandna
+Nakshatra Chandna
+Flutter developer
 
 Show Contacts
 
@@ -238,3 +238,4 @@ Email address
 Your Message
 
 Send Message
+
